@@ -1,1 +1,2 @@
-#Demothis for learning git and github from freecodecamp
+#Demo
+this is for learning git and github from freecodecamp
